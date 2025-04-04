@@ -9,4 +9,4 @@
 5. Run 'python manage.py runserver' to open the server.
 6. Navigate to the admin page to be able to perform 'GET', 'POST', 'PUT', 'PATCH', and 'DELETE' methods.
    - Username: Nicky
-   - Password: NickyChemos@123
+   - Password: Nickychemos@123
